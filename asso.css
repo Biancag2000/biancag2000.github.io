@@ -1,0 +1,16 @@
+style.css
+body { 
+		font: verdana; }
+
+	h1 { 
+		colour: grey;
+		font: verdana;
+	}
+
+	 p { 
+	 	text-align: justify; 
+	}
+
+	 footer { 
+	 	font-size: smaller;
+	 }
